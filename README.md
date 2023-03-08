@@ -4,8 +4,6 @@ FutureWrite is the ultimate writing assistant for professionals. With its AI-pow
 
 ### Homepage: https://futurewrite.ai/
 
-Report bugs and issues:
-<<>>
+Report bugs and issues: https://github.com/FutureWrite-AI/FutureWrite-Web/labels/bug
 
-Provide feedback and suggest ideas:
-<<>>/provide-feedback-and-ideas
+Provide feedback and suggest ideas: https://github.com/FutureWrite-AI/FutureWrite-Web/labels/feedback-ideas
